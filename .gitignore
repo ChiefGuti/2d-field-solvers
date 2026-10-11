@@ -1,6 +1,10 @@
-*.o
+# Build products
 a.out
-.ipynb_checkpoints/
-*~
-\#*\#
-.DS_Store
+*.o
+placas
+Entrega
+__pycache__/
+
+# Generated data
+output.txt
+*.npy
